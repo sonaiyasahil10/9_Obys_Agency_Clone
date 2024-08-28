@@ -56,7 +56,7 @@ function loadingAnimation() {
 
     t1.to("#loader", {
         opacity: 0,
-        duration: 0.75,
+        duration: 1.75,
         delay: 2.25
     })
 
